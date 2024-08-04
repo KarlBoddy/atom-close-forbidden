@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Boddy
+    given-names: Karl
+    orcid: https://orcid.org/0009-0006-1336-9802
+title: "Calculate Forbidden k-tuples for Atom-Close Graphs"
+date-released: 2024-08-03
